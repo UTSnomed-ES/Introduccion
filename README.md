@@ -10,6 +10,7 @@ El uso de codificaciones propias y clasificaciones estándares utilizadas para e
 La Unidad Técnica de SNOMED CT del SNS se configura como una oportunidad de disponer de un órgano encargado de regular y coordinar el uso y las iniciativas y los proyectos de adopción y uso de la terminología, trabajando para conseguir los siguientes objetivos.
 
 <H2>Objetivos</h2>
+
 * Fomentar el uso de la terminología SNOMED CT en el ámbito de la salud en el SNS.
 
 * Colaborar y fomentar los procesos de adopción de la terminología, facilitando asesoramiento y consultoría para la implementación en sus diferentes variantes: para registros de información, como terminología de referencia para análisis y explotaciones de información agregada.
